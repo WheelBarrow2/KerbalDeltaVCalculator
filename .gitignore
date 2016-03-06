@@ -30,3 +30,6 @@
 #Project files
 *.pro.user
 *.pro.user.*
+
+#MacOs Files
+*.DS_Store
