@@ -28,4 +28,5 @@
 *.app
 
 #Project files
+*.pro.user
 *.pro.user.*
